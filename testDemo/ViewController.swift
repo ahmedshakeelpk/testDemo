@@ -15,6 +15,10 @@ class ViewController: UIViewController {
         
         //test code
 //        comment1
+//        comment3
+//        comment4
+//        comment5
+//        comment6
         
     }
 
