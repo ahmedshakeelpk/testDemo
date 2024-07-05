@@ -26,7 +26,6 @@ class ViewController: UIViewController {
         //comment14
         //comment15
         //comment16
-//        comment24
         //comment17
         //comment18
         //comment19
@@ -34,6 +33,8 @@ class ViewController: UIViewController {
         //comment25
         //comment22
         //comment23
+        //        comment24
+        //        comment25
 
         
         
